@@ -4,7 +4,7 @@
     "parameters": {
         "capacityName": {
             "type": "String",
-	    "defaultValue": "scu-capacity"
+	    "defaultValue": "TDCProvisioned-SCU-Capacity"
         },
         "location": {
             "type": "String",
